@@ -1,0 +1,42 @@
+{
+  "icons": [
+    {
+      "src": "icon_512x512.49403b65f9cf67b94ef61cd1560c0077.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_384x384.59fc0f90310d9179f01173836ca08f92.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_256x256.113c2f96f78beede15a9ca944f92b836.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_192x192.b7bbe88335225d4034fe277fdb22a7a0.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_128x128.3ae62427b5d9989129eb749d58124186.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_96x96.18a251b0afa7cb7ce1b6f04ae1be8b4a.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Virtual Dice Roller",
+  "short_name": "Dice Roller",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "dice rolling simulator that uses physics simulation to determine dice rolls",
+  "background_color": "#09C",
+  "theme_color": "#09C"
+}
